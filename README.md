@@ -27,8 +27,8 @@ To run this project, you will need:
 You can install the required packages by running:
 
 ```bash
-$ git clone https://github.com/luisaugustos/
-$ cd yolov5
+$ git clone https://github.com/luisaugustos/AerialDetection-YOLOv5-TransformerPredictionHead
+$ cd AerialDetection-YOLOv5-TransformerPredictionHead
 $ pip install -r requirements.txt
 ```
 
